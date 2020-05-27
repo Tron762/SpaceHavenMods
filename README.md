@@ -21,3 +21,8 @@ As per the name, increase water gained from ice to 20 water up from 5
 "Refinery Mod"
 
 A Large mod which requires base resources to be refined before use. This can be done manually in a metal refinery, however two new buildings are available to more efficiently refine noble and base metals. These new refineries generate industrial waste which can be recycled back into base metals via a new waste recycling building, meaning resources will last longer. Additionally, chemical, energerium and hyperfuel processing now generate chem and fuel waste which can be recycled back into raw chemicals and base resources in a similar way to the metals.  All of the new buildings generate lots of heat & hazgas meaning they're a bit of a pain to use and likely lethal to anyone not in a space suit. They also take up system points. The idea of this mod is to encourage the use of a focused Refinery Ship to support more focussed combat ships.
+
+"Better toilets"
+
+Adds another toilet (X2 Toilet) with better water recycling capability (1 per 3 dumps). Costs one infra, one tech, one energy and one soft blocks. Creates more negative confort than the X1 Toilet.
+v0.1
